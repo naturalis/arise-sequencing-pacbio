@@ -1,0 +1,1321 @@
+CCS.BC1001--bc1100.fas:
+Input and filter stats:
+	Input sequences: 413
+	Input bases: 79,353
+	Input mean length: 192.14
+	Good sequences: 9 (2.18%)
+	Good bases: 6,537
+	Good mean length: 726.33
+	Bad sequences: 404 (97.82%)
+	Bad bases: 72,816
+	Bad mean length: 180.24
+	Sequences filtered by specified parameters:
+	min_len: 401
+	max_len: 3
+CCS.BC1001--bc1101.fas:
+Input and filter stats:
+	Input sequences: 499
+	Input bases: 129,440
+	Input mean length: 259.40
+	Good sequences: 93 (18.64%)
+	Good bases: 68,662
+	Good mean length: 738.30
+	Bad sequences: 406 (81.36%)
+	Bad bases: 60,778
+	Bad mean length: 149.70
+	Sequences filtered by specified parameters:
+	min_len: 402
+	max_len: 4
+CCS.BC1001--bc1102.fas:
+Input and filter stats:
+	Input sequences: 842
+	Input bases: 453,920
+	Input mean length: 539.10
+	Good sequences: 532 (63.18%)
+	Good bases: 395,428
+	Good mean length: 743.29
+	Bad sequences: 310 (36.82%)
+	Bad bases: 58,492
+	Bad mean length: 188.68
+	Sequences filtered by specified parameters:
+	min_len: 308
+	max_len: 2
+CCS.BC1001--bc1103.fas:
+Input and filter stats:
+	Input sequences: 479
+	Input bases: 71,202
+	Input mean length: 148.65
+	Good sequences: 11 (2.30%)
+	Good bases: 7,886
+	Good mean length: 716.91
+	Bad sequences: 468 (97.70%)
+	Bad bases: 63,316
+	Bad mean length: 135.29
+	Sequences filtered by specified parameters:
+	min_len: 467
+	max_len: 1
+CCS.BC1001--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,512
+	Input bases: 965,126
+	Input mean length: 638.31
+	Good sequences: 1,211 (80.09%)
+	Good bases: 900,078
+	Good mean length: 743.25
+	Bad sequences: 301 (19.91%)
+	Bad bases: 65,048
+	Bad mean length: 216.11
+	Sequences filtered by specified parameters:
+	min_len: 288
+	max_len: 13
+CCS.BC1001--bc1105.fas:
+Input and filter stats:
+	Input sequences: 1,108
+	Input bases: 644,765
+	Input mean length: 581.92
+	Good sequences: 808 (72.92%)
+	Good bases: 600,477
+	Good mean length: 743.16
+	Bad sequences: 300 (27.08%)
+	Bad bases: 44,288
+	Bad mean length: 147.63
+	Sequences filtered by specified parameters:
+	min_len: 293
+	max_len: 7
+CCS.BC1001--bc1106.fas:
+Input and filter stats:
+	Input sequences: 398
+	Input bases: 54,495
+	Input mean length: 136.92
+	Good sequences: 8 (2.01%)
+	Good bases: 5,999
+	Good mean length: 749.88
+	Bad sequences: 390 (97.99%)
+	Bad bases: 48,496
+	Bad mean length: 124.35
+	Sequences filtered by specified parameters:
+	min_len: 387
+	max_len: 3
+CCS.BC1001--bc1107.fas:
+Input and filter stats:
+	Input sequences: 571
+	Input bases: 125,812
+	Input mean length: 220.34
+	Good sequences: 68 (11.91%)
+	Good bases: 50,464
+	Good mean length: 742.12
+	Bad sequences: 503 (88.09%)
+	Bad bases: 75,348
+	Bad mean length: 149.80
+	Sequences filtered by specified parameters:
+	min_len: 499
+	max_len: 4
+CCS.BC1002--bc1100.fas:
+Input and filter stats:
+	Input sequences: 859
+	Input bases: 114,709
+	Input mean length: 133.54
+	Good sequences: 22 (2.56%)
+	Good bases: 16,205
+	Good mean length: 736.59
+	Bad sequences: 837 (97.44%)
+	Bad bases: 98,504
+	Bad mean length: 117.69
+	Sequences filtered by specified parameters:
+	min_len: 837
+CCS.BC1002--bc1101.fas:
+Input and filter stats:
+	Input sequences: 360
+	Input bases: 79,943
+	Input mean length: 222.06
+	Good sequences: 43 (11.94%)
+	Good bases: 31,387
+	Good mean length: 729.93
+	Bad sequences: 317 (88.06%)
+	Bad bases: 48,556
+	Bad mean length: 153.17
+	Sequences filtered by specified parameters:
+	min_len: 315
+	max_len: 2
+CCS.BC1002--bc1102.fas:
+Input and filter stats:
+	Input sequences: 1,273
+	Input bases: 835,452
+	Input mean length: 656.29
+	Good sequences: 1,067 (83.82%)
+	Good bases: 793,032
+	Good mean length: 743.24
+	Bad sequences: 206 (16.18%)
+	Bad bases: 42,420
+	Bad mean length: 205.92
+	Sequences filtered by specified parameters:
+	min_len: 201
+	max_len: 5
+CCS.BC1002--bc1103.fas:
+Input and filter stats:
+	Input sequences: 1,112
+	Input bases: 167,547
+	Input mean length: 150.67
+	Good sequences: 13 (1.17%)
+	Good bases: 9,598
+	Good mean length: 738.31
+	Bad sequences: 1,099 (98.83%)
+	Bad bases: 157,949
+	Bad mean length: 143.72
+	Sequences filtered by specified parameters:
+	min_len: 1098
+	max_len: 1
+CCS.BC1002--bc1104.fas:
+Input and filter stats:
+	Input sequences: 878
+	Input bases: 403,791
+	Input mean length: 459.90
+	Good sequences: 472 (53.76%)
+	Good bases: 350,745
+	Good mean length: 743.10
+	Bad sequences: 406 (46.24%)
+	Bad bases: 53,046
+	Bad mean length: 130.66
+	Sequences filtered by specified parameters:
+	min_len: 401
+	max_len: 5
+CCS.BC1002--bc1105.fas:
+Input and filter stats:
+	Input sequences: 2,294
+	Input bases: 684,536
+	Input mean length: 298.40
+	Good sequences: 560 (24.41%)
+	Good bases: 416,303
+	Good mean length: 743.40
+	Bad sequences: 1,734 (75.59%)
+	Bad bases: 268,233
+	Bad mean length: 154.69
+	Sequences filtered by specified parameters:
+	min_len: 1728
+	max_len: 6
+CCS.BC1002--bc1106.fas:
+Input and filter stats:
+	Input sequences: 505
+	Input bases: 69,743
+	Input mean length: 138.10
+	Good sequences: 7 (1.39%)
+	Good bases: 5,179
+	Good mean length: 739.86
+	Bad sequences: 498 (98.61%)
+	Bad bases: 64,564
+	Bad mean length: 129.65
+	Sequences filtered by specified parameters:
+	min_len: 498
+CCS.BC1002--bc1107.fas:
+Input and filter stats:
+	Input sequences: 1,407
+	Input bases: 231,181
+	Input mean length: 164.31
+	Good sequences: 15 (1.07%)
+	Good bases: 11,066
+	Good mean length: 737.73
+	Bad sequences: 1,392 (98.93%)
+	Bad bases: 220,115
+	Bad mean length: 158.13
+	Sequences filtered by specified parameters:
+	min_len: 1392
+CCS.BC1003--bc1100.fas:
+Input and filter stats:
+	Input sequences: 475
+	Input bases: 76,957
+	Input mean length: 162.01
+	Good sequences: 10 (2.11%)
+	Good bases: 7,369
+	Good mean length: 736.90
+	Bad sequences: 465 (97.89%)
+	Bad bases: 69,588
+	Bad mean length: 149.65
+	Sequences filtered by specified parameters:
+	min_len: 462
+	max_len: 3
+CCS.BC1003--bc1101.fas:
+Input and filter stats:
+	Input sequences: 836
+	Input bases: 457,517
+	Input mean length: 547.27
+	Good sequences: 539 (64.47%)
+	Good bases: 396,004
+	Good mean length: 734.70
+	Bad sequences: 297 (35.53%)
+	Bad bases: 61,513
+	Bad mean length: 207.11
+	Sequences filtered by specified parameters:
+	min_len: 292
+	max_len: 5
+CCS.BC1003--bc1102.fas:
+Input and filter stats:
+	Input sequences: 481
+	Input bases: 247,333
+	Input mean length: 514.21
+	Good sequences: 290 (60.29%)
+	Good bases: 215,550
+	Good mean length: 743.28
+	Bad sequences: 191 (39.71%)
+	Bad bases: 31,783
+	Bad mean length: 166.40
+	Sequences filtered by specified parameters:
+	min_len: 187
+	max_len: 4
+CCS.BC1003--bc1103.fas:
+Input and filter stats:
+	Input sequences: 856
+	Input bases: 361,270
+	Input mean length: 422.04
+	Good sequences: 401 (46.85%)
+	Good bases: 298,178
+	Good mean length: 743.59
+	Bad sequences: 455 (53.15%)
+	Bad bases: 63,092
+	Bad mean length: 138.66
+	Sequences filtered by specified parameters:
+	min_len: 452
+	max_len: 3
+CCS.BC1003--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,031
+	Input bases: 542,444
+	Input mean length: 526.13
+	Good sequences: 641 (62.17%)
+	Good bases: 476,361
+	Good mean length: 743.15
+	Bad sequences: 390 (37.83%)
+	Bad bases: 66,083
+	Bad mean length: 169.44
+	Sequences filtered by specified parameters:
+	min_len: 381
+	max_len: 9
+CCS.BC1003--bc1105.fas:
+Input and filter stats:
+	Input sequences: 1,172
+	Input bases: 393,385
+	Input mean length: 335.65
+	Good sequences: 372 (31.74%)
+	Good bases: 276,564
+	Good mean length: 743.45
+	Bad sequences: 800 (68.26%)
+	Bad bases: 116,821
+	Bad mean length: 146.03
+	Sequences filtered by specified parameters:
+	min_len: 796
+	max_len: 4
+CCS.BC1003--bc1106.fas:
+Input and filter stats:
+	Input sequences: 1,574
+	Input bases: 744,439
+	Input mean length: 472.96
+	Good sequences: 790 (50.19%)
+	Good bases: 587,657
+	Good mean length: 743.87
+	Bad sequences: 784 (49.81%)
+	Bad bases: 156,782
+	Bad mean length: 199.98
+	Sequences filtered by specified parameters:
+	min_len: 778
+	max_len: 6
+CCS.BC1003--bc1107.fas:
+Input and filter stats:
+	Input sequences: 1,187
+	Input bases: 612,942
+	Input mean length: 516.38
+	Good sequences: 689 (58.05%)
+	Good bases: 512,215
+	Good mean length: 743.42
+	Bad sequences: 498 (41.95%)
+	Bad bases: 100,727
+	Bad mean length: 202.26
+	Sequences filtered by specified parameters:
+	min_len: 495
+	max_len: 3
+CCS.BC1004--bc1100.fas:
+Input and filter stats:
+	Input sequences: 749
+	Input bases: 106,108
+	Input mean length: 141.67
+	Good sequences: 11 (1.47%)
+	Good bases: 7,704
+	Good mean length: 700.36
+	Bad sequences: 738 (98.53%)
+	Bad bases: 98,404
+	Bad mean length: 133.34
+	Sequences filtered by specified parameters:
+	min_len: 735
+	max_len: 3
+CCS.BC1004--bc1101.fas:
+Input and filter stats:
+	Input sequences: 536
+	Input bases: 71,320
+	Input mean length: 133.06
+	Good sequences: 19 (3.54%)
+	Good bases: 13,817
+	Good mean length: 727.21
+	Bad sequences: 517 (96.46%)
+	Bad bases: 57,503
+	Bad mean length: 111.22
+	Sequences filtered by specified parameters:
+	min_len: 517
+CCS.BC1004--bc1102.fas:
+Input and filter stats:
+	Input sequences: 465
+	Input bases: 61,663
+	Input mean length: 132.61
+	Good sequences: 3 (0.65%)
+	Good bases: 2,219
+	Good mean length: 739.67
+	Bad sequences: 462 (99.35%)
+	Bad bases: 59,444
+	Bad mean length: 128.67
+	Sequences filtered by specified parameters:
+	min_len: 461
+	max_len: 1
+CCS.BC1004--bc1103.fas:
+Input and filter stats:
+	Input sequences: 1,105
+	Input bases: 456,801
+	Input mean length: 413.39
+	Good sequences: 502 (45.43%)
+	Good bases: 372,864
+	Good mean length: 742.76
+	Bad sequences: 603 (54.57%)
+	Bad bases: 83,937
+	Bad mean length: 139.20
+	Sequences filtered by specified parameters:
+	min_len: 603
+CCS.BC1004--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,863
+	Input bases: 1,116,050
+	Input mean length: 599.06
+	Good sequences: 1,391 (74.66%)
+	Good bases: 1,034,071
+	Good mean length: 743.40
+	Bad sequences: 472 (25.34%)
+	Bad bases: 81,979
+	Bad mean length: 173.68
+	Sequences filtered by specified parameters:
+	min_len: 464
+	max_len: 8
+CCS.BC1004--bc1105.fas:
+Input and filter stats:
+	Input sequences: 2,258
+	Input bases: 648,377
+	Input mean length: 287.15
+	Good sequences: 469 (20.77%)
+	Good bases: 348,628
+	Good mean length: 743.34
+	Bad sequences: 1,789 (79.23%)
+	Bad bases: 299,749
+	Bad mean length: 167.55
+	Sequences filtered by specified parameters:
+	min_len: 1785
+	max_len: 4
+CCS.BC1004--bc1106.fas:
+Input and filter stats:
+	Input sequences: 2,061
+	Input bases: 297,607
+	Input mean length: 144.40
+	Good sequences: 3 (0.15%)
+	Good bases: 2,178
+	Good mean length: 726.00
+	Bad sequences: 2,058 (99.85%)
+	Bad bases: 295,429
+	Bad mean length: 143.55
+	Sequences filtered by specified parameters:
+	min_len: 2054
+	max_len: 4
+CCS.BC1004--bc1107.fas:
+Input and filter stats:
+	Input sequences: 574
+	Input bases: 255,215
+	Input mean length: 444.63
+	Good sequences: 283 (49.30%)
+	Good bases: 210,407
+	Good mean length: 743.49
+	Bad sequences: 291 (50.70%)
+	Bad bases: 44,808
+	Bad mean length: 153.98
+	Sequences filtered by specified parameters:
+	min_len: 286
+	max_len: 5
+CCS.BC1005--bc1100.fas:
+Input and filter stats:
+	Input sequences: 764
+	Input bases: 112,798
+	Input mean length: 147.64
+	Good sequences: 19 (2.49%)
+	Good bases: 13,721
+	Good mean length: 722.16
+	Bad sequences: 745 (97.51%)
+	Bad bases: 99,077
+	Bad mean length: 132.99
+	Sequences filtered by specified parameters:
+	min_len: 740
+	max_len: 5
+CCS.BC1005--bc1101.fas:
+Input and filter stats:
+	Input sequences: 820
+	Input bases: 255,759
+	Input mean length: 311.90
+	Good sequences: 188 (22.93%)
+	Good bases: 138,638
+	Good mean length: 737.44
+	Bad sequences: 632 (77.07%)
+	Bad bases: 117,121
+	Bad mean length: 185.32
+	Sequences filtered by specified parameters:
+	min_len: 628
+	max_len: 4
+CCS.BC1005--bc1102.fas:
+Input and filter stats:
+	Input sequences: 515
+	Input bases: 186,764
+	Input mean length: 362.65
+	Good sequences: 192 (37.28%)
+	Good bases: 142,672
+	Good mean length: 743.08
+	Bad sequences: 323 (62.72%)
+	Bad bases: 44,092
+	Bad mean length: 136.51
+	Sequences filtered by specified parameters:
+	min_len: 322
+	max_len: 1
+CCS.BC1005--bc1103.fas:
+Input and filter stats:
+	Input sequences: 1,333
+	Input bases: 637,516
+	Input mean length: 478.26
+	Good sequences: 753 (56.49%)
+	Good bases: 559,746
+	Good mean length: 743.35
+	Bad sequences: 580 (43.51%)
+	Bad bases: 77,770
+	Bad mean length: 134.09
+	Sequences filtered by specified parameters:
+	min_len: 579
+	max_len: 1
+CCS.BC1005--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,407
+	Input bases: 817,739
+	Input mean length: 581.19
+	Good sequences: 1,010 (71.78%)
+	Good bases: 750,708
+	Good mean length: 743.28
+	Bad sequences: 397 (28.22%)
+	Bad bases: 67,031
+	Bad mean length: 168.84
+	Sequences filtered by specified parameters:
+	min_len: 386
+	max_len: 11
+CCS.BC1005--bc1105.fas:
+Input and filter stats:
+	Input sequences: 1,881
+	Input bases: 512,601
+	Input mean length: 272.52
+	Good sequences: 359 (19.09%)
+	Good bases: 266,729
+	Good mean length: 742.98
+	Bad sequences: 1,522 (80.91%)
+	Bad bases: 245,872
+	Bad mean length: 161.55
+	Sequences filtered by specified parameters:
+	min_len: 1516
+	max_len: 6
+CCS.BC1005--bc1106.fas:
+Input and filter stats:
+	Input sequences: 815
+	Input bases: 108,173
+	Input mean length: 132.73
+	Good sequences: 10 (1.23%)
+	Good bases: 7,408
+	Good mean length: 740.80
+	Bad sequences: 805 (98.77%)
+	Bad bases: 100,765
+	Bad mean length: 125.17
+	Sequences filtered by specified parameters:
+	min_len: 804
+	max_len: 1
+CCS.BC1005--bc1107.fas:
+Input and filter stats:
+	Input sequences: 700
+	Input bases: 160,887
+	Input mean length: 229.84
+	Good sequences: 117 (16.71%)
+	Good bases: 86,619
+	Good mean length: 740.33
+	Bad sequences: 583 (83.29%)
+	Bad bases: 74,268
+	Bad mean length: 127.39
+	Sequences filtered by specified parameters:
+	min_len: 580
+	max_len: 3
+CCS.BC1006--bc1100.fas:
+Input and filter stats:
+	Input sequences: 3,321
+	Input bases: 1,069,221
+	Input mean length: 321.96
+	Good sequences: 740 (22.28%)
+	Good bases: 549,987
+	Good mean length: 743.23
+	Bad sequences: 2,581 (77.72%)
+	Bad bases: 519,234
+	Bad mean length: 201.18
+	Sequences filtered by specified parameters:
+	min_len: 2571
+	max_len: 10
+CCS.BC1006--bc1101.fas:
+Input and filter stats:
+	Input sequences: 997
+	Input bases: 363,574
+	Input mean length: 364.67
+	Good sequences: 376 (37.71%)
+	Good bases: 275,585
+	Good mean length: 732.94
+	Bad sequences: 621 (62.29%)
+	Bad bases: 87,989
+	Bad mean length: 141.69
+	Sequences filtered by specified parameters:
+	min_len: 618
+	max_len: 3
+CCS.BC1006--bc1102.fas:
+Input and filter stats:
+	Input sequences: 1,095
+	Input bases: 413,665
+	Input mean length: 377.78
+	Good sequences: 424 (38.72%)
+	Good bases: 315,105
+	Good mean length: 743.17
+	Bad sequences: 671 (61.28%)
+	Bad bases: 98,560
+	Bad mean length: 146.89
+	Sequences filtered by specified parameters:
+	min_len: 668
+	max_len: 3
+CCS.BC1006--bc1103.fas:
+Input and filter stats:
+	Input sequences: 1,170
+	Input bases: 318,235
+	Input mean length: 272.00
+	Good sequences: 268 (22.91%)
+	Good bases: 199,211
+	Good mean length: 743.32
+	Bad sequences: 902 (77.09%)
+	Bad bases: 119,024
+	Bad mean length: 131.96
+	Sequences filtered by specified parameters:
+	min_len: 897
+	max_len: 5
+CCS.BC1006--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,438
+	Input bases: 854,686
+	Input mean length: 594.36
+	Good sequences: 1,058 (73.57%)
+	Good bases: 786,355
+	Good mean length: 743.25
+	Bad sequences: 380 (26.43%)
+	Bad bases: 68,331
+	Bad mean length: 179.82
+	Sequences filtered by specified parameters:
+	min_len: 367
+	max_len: 13
+CCS.BC1006--bc1105.fas:
+Input and filter stats:
+	Input sequences: 1,119
+	Input bases: 575,583
+	Input mean length: 514.37
+	Good sequences: 647 (57.82%)
+	Good bases: 480,631
+	Good mean length: 742.86
+	Bad sequences: 472 (42.18%)
+	Bad bases: 94,952
+	Bad mean length: 201.17
+	Sequences filtered by specified parameters:
+	min_len: 468
+	max_len: 4
+CCS.BC1006--bc1106.fas:
+Input and filter stats:
+	Input sequences: 2,463
+	Input bases: 451,534
+	Input mean length: 183.33
+	Good sequences: 36 (1.46%)
+	Good bases: 26,668
+	Good mean length: 740.78
+	Bad sequences: 2,427 (98.54%)
+	Bad bases: 424,866
+	Bad mean length: 175.06
+	Sequences filtered by specified parameters:
+	min_len: 2426
+	max_len: 1
+CCS.BC1006--bc1107.fas:
+Input and filter stats:
+	Input sequences: 1,250
+	Input bases: 367,849
+	Input mean length: 294.28
+	Good sequences: 324 (25.92%)
+	Good bases: 240,593
+	Good mean length: 742.57
+	Bad sequences: 926 (74.08%)
+	Bad bases: 127,256
+	Bad mean length: 137.43
+	Sequences filtered by specified parameters:
+	min_len: 923
+	max_len: 3
+CCS.BC1007--bc1100.fas:
+Input and filter stats:
+	Input sequences: 765
+	Input bases: 163,334
+	Input mean length: 213.51
+	Good sequences: 98 (12.81%)
+	Good bases: 72,066
+	Good mean length: 735.37
+	Bad sequences: 667 (87.19%)
+	Bad bases: 91,268
+	Bad mean length: 136.83
+	Sequences filtered by specified parameters:
+	min_len: 664
+	max_len: 3
+CCS.BC1007--bc1101.fas:
+Input and filter stats:
+	Input sequences: 523
+	Input bases: 81,789
+	Input mean length: 156.38
+	Good sequences: 17 (3.25%)
+	Good bases: 12,364
+	Good mean length: 727.29
+	Bad sequences: 506 (96.75%)
+	Bad bases: 69,425
+	Bad mean length: 137.20
+	Sequences filtered by specified parameters:
+	min_len: 504
+	max_len: 2
+CCS.BC1007--bc1102.fas:
+Input and filter stats:
+	Input sequences: 291
+	Input bases: 37,217
+	Input mean length: 127.89
+	Good sequences: 1 (0.34%)
+	Good bases: 757
+	Good mean length: 757.00
+	Bad sequences: 290 (99.66%)
+	Bad bases: 36,460
+	Bad mean length: 125.72
+	Sequences filtered by specified parameters:
+	min_len: 286
+	max_len: 4
+CCS.BC1007--bc1103.fas:
+Use of uninitialized value $fhmappings in unlink at /opt/anaconda3/envs/__prinseq@_uv_/bin/prinseq-lite.pl line 1833.
+Input and filter stats:
+	Input sequences: 579
+	Input bases: 67,863
+	Input mean length: 117.21
+	Good sequences: 0 (0.00%)
+	Bad sequences: 579 (100.00%)
+	Bad bases: 67,863
+	Bad mean length: 117.21
+	Sequences filtered by specified parameters:
+	min_len: 578
+	max_len: 1
+CCS.BC1007--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,247
+	Input bases: 180,994
+	Input mean length: 145.14
+	Good sequences: 33 (2.65%)
+	Good bases: 24,681
+	Good mean length: 747.91
+	Bad sequences: 1,214 (97.35%)
+	Bad bases: 156,313
+	Bad mean length: 128.76
+	Sequences filtered by specified parameters:
+	min_len: 1213
+	max_len: 1
+CCS.BC1007--bc1105.fas:
+Input and filter stats:
+	Input sequences: 633
+	Input bases: 74,405
+	Input mean length: 117.54
+	Good sequences: 4 (0.63%)
+	Good bases: 2,941
+	Good mean length: 735.25
+	Bad sequences: 629 (99.37%)
+	Bad bases: 71,464
+	Bad mean length: 113.62
+	Sequences filtered by specified parameters:
+	min_len: 624
+	max_len: 5
+CCS.BC1007--bc1106.fas:
+Use of uninitialized value $fhmappings in unlink at /opt/anaconda3/envs/__prinseq@_uv_/bin/prinseq-lite.pl line 1833.
+Input and filter stats:
+	Input sequences: 460
+	Input bases: 48,910
+	Input mean length: 106.33
+	Good sequences: 0 (0.00%)
+	Bad sequences: 460 (100.00%)
+	Bad bases: 48,910
+	Bad mean length: 106.33
+	Sequences filtered by specified parameters:
+	min_len: 459
+	max_len: 1
+CCS.BC1007--bc1107.fas:
+Use of uninitialized value $fhmappings in unlink at /opt/anaconda3/envs/__prinseq@_uv_/bin/prinseq-lite.pl line 1833.
+Input and filter stats:
+	Input sequences: 258
+	Input bases: 28,870
+	Input mean length: 111.90
+	Good sequences: 0 (0.00%)
+	Bad sequences: 258 (100.00%)
+	Bad bases: 28,870
+	Bad mean length: 111.90
+	Sequences filtered by specified parameters:
+	min_len: 256
+	max_len: 2
+CCS.BC1008--bc1100.fas:
+Input and filter stats:
+	Input sequences: 632
+	Input bases: 170,759
+	Input mean length: 270.19
+	Good sequences: 122 (19.30%)
+	Good bases: 90,439
+	Good mean length: 741.30
+	Bad sequences: 510 (80.70%)
+	Bad bases: 80,320
+	Bad mean length: 157.49
+	Sequences filtered by specified parameters:
+	min_len: 506
+	max_len: 4
+CCS.BC1008--bc1101.fas:
+Input and filter stats:
+	Input sequences: 459
+	Input bases: 73,987
+	Input mean length: 161.19
+	Good sequences: 36 (7.84%)
+	Good bases: 25,927
+	Good mean length: 720.19
+	Bad sequences: 423 (92.16%)
+	Bad bases: 48,060
+	Bad mean length: 113.62
+	Sequences filtered by specified parameters:
+	min_len: 422
+	max_len: 1
+CCS.BC1008--bc1102.fas:
+Input and filter stats:
+	Input sequences: 1,197
+	Input bases: 247,057
+	Input mean length: 206.40
+	Good sequences: 110 (9.19%)
+	Good bases: 81,595
+	Good mean length: 741.77
+	Bad sequences: 1,087 (90.81%)
+	Bad bases: 165,462
+	Bad mean length: 152.22
+	Sequences filtered by specified parameters:
+	min_len: 1084
+	max_len: 3
+CCS.BC1008--bc1103.fas:
+Input and filter stats:
+	Input sequences: 1,209
+	Input bases: 316,883
+	Input mean length: 262.10
+	Good sequences: 213 (17.62%)
+	Good bases: 158,204
+	Good mean length: 742.74
+	Bad sequences: 996 (82.38%)
+	Bad bases: 158,679
+	Bad mean length: 159.32
+	Sequences filtered by specified parameters:
+	min_len: 991
+	max_len: 5
+CCS.BC1008--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,335
+	Input bases: 784,310
+	Input mean length: 587.50
+	Good sequences: 978 (73.26%)
+	Good bases: 726,909
+	Good mean length: 743.26
+	Bad sequences: 357 (26.74%)
+	Bad bases: 57,401
+	Bad mean length: 160.79
+	Sequences filtered by specified parameters:
+	min_len: 350
+	max_len: 7
+CCS.BC1008--bc1105.fas:
+Input and filter stats:
+	Input sequences: 1,504
+	Input bases: 794,637
+	Input mean length: 528.35
+	Good sequences: 877 (58.31%)
+	Good bases: 651,897
+	Good mean length: 743.33
+	Bad sequences: 627 (41.69%)
+	Bad bases: 142,740
+	Bad mean length: 227.66
+	Sequences filtered by specified parameters:
+	min_len: 620
+	max_len: 7
+CCS.BC1008--bc1106.fas:
+Input and filter stats:
+	Input sequences: 935
+	Input bases: 337,956
+	Input mean length: 361.45
+	Good sequences: 354 (37.86%)
+	Good bases: 263,061
+	Good mean length: 743.11
+	Bad sequences: 581 (62.14%)
+	Bad bases: 74,895
+	Bad mean length: 128.91
+	Sequences filtered by specified parameters:
+	min_len: 579
+	max_len: 2
+CCS.BC1008--bc1107.fas:
+Input and filter stats:
+	Input sequences: 854
+	Input bases: 103,456
+	Input mean length: 121.14
+	Good sequences: 4 (0.47%)
+	Good bases: 2,976
+	Good mean length: 744.00
+	Bad sequences: 850 (99.53%)
+	Bad bases: 100,480
+	Bad mean length: 118.21
+	Sequences filtered by specified parameters:
+	min_len: 847
+	max_len: 3
+CCS.BC1009--bc1100.fas:
+Input and filter stats:
+	Input sequences: 766
+	Input bases: 153,256
+	Input mean length: 200.07
+	Good sequences: 91 (11.88%)
+	Good bases: 67,474
+	Good mean length: 741.47
+	Bad sequences: 675 (88.12%)
+	Bad bases: 85,782
+	Bad mean length: 127.08
+	Sequences filtered by specified parameters:
+	min_len: 672
+	max_len: 3
+CCS.BC1009--bc1101.fas:
+Input and filter stats:
+	Input sequences: 860
+	Input bases: 140,423
+	Input mean length: 163.28
+	Good sequences: 48 (5.58%)
+	Good bases: 35,060
+	Good mean length: 730.42
+	Bad sequences: 812 (94.42%)
+	Bad bases: 105,363
+	Bad mean length: 129.76
+	Sequences filtered by specified parameters:
+	min_len: 807
+	max_len: 5
+CCS.BC1009--bc1102.fas:
+Input and filter stats:
+	Input sequences: 1,343
+	Input bases: 210,530
+	Input mean length: 156.76
+	Good sequences: 29 (2.16%)
+	Good bases: 21,489
+	Good mean length: 741.00
+	Bad sequences: 1,314 (97.84%)
+	Bad bases: 189,041
+	Bad mean length: 143.87
+	Sequences filtered by specified parameters:
+	min_len: 1313
+	max_len: 1
+CCS.BC1009--bc1103.fas:
+Input and filter stats:
+	Input sequences: 1,327
+	Input bases: 214,631
+	Input mean length: 161.74
+	Good sequences: 73 (5.50%)
+	Good bases: 54,088
+	Good mean length: 740.93
+	Bad sequences: 1,254 (94.50%)
+	Bad bases: 160,543
+	Bad mean length: 128.02
+	Sequences filtered by specified parameters:
+	min_len: 1251
+	max_len: 3
+CCS.BC1009--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,038
+	Input bases: 539,401
+	Input mean length: 519.65
+	Good sequences: 660 (63.58%)
+	Good bases: 490,445
+	Good mean length: 743.10
+	Bad sequences: 378 (36.42%)
+	Bad bases: 48,956
+	Bad mean length: 129.51
+	Sequences filtered by specified parameters:
+	min_len: 375
+	max_len: 3
+CCS.BC1009--bc1105.fas:
+Input and filter stats:
+	Input sequences: 1,582
+	Input bases: 492,315
+	Input mean length: 311.20
+	Good sequences: 448 (28.32%)
+	Good bases: 332,949
+	Good mean length: 743.19
+	Bad sequences: 1,134 (71.68%)
+	Bad bases: 159,366
+	Bad mean length: 140.53
+	Sequences filtered by specified parameters:
+	min_len: 1131
+	max_len: 3
+CCS.BC1009--bc1106.fas:
+Input and filter stats:
+	Input sequences: 776
+	Input bases: 81,763
+	Input mean length: 105.36
+	Good sequences: 5 (0.64%)
+	Good bases: 3,707
+	Good mean length: 741.40
+	Bad sequences: 771 (99.36%)
+	Bad bases: 78,056
+	Bad mean length: 101.24
+	Sequences filtered by specified parameters:
+	min_len: 771
+CCS.BC1009--bc1107.fas:
+Input and filter stats:
+	Input sequences: 676
+	Input bases: 73,127
+	Input mean length: 108.18
+	Good sequences: 4 (0.59%)
+	Good bases: 2,967
+	Good mean length: 741.75
+	Bad sequences: 672 (99.41%)
+	Bad bases: 70,160
+	Bad mean length: 104.40
+	Sequences filtered by specified parameters:
+	min_len: 671
+	max_len: 1
+CCS.BC1010--bc1100.fas:
+Input and filter stats:
+	Input sequences: 715
+	Input bases: 302,914
+	Input mean length: 423.66
+	Good sequences: 327 (45.73%)
+	Good bases: 242,821
+	Good mean length: 742.57
+	Bad sequences: 388 (54.27%)
+	Bad bases: 60,093
+	Bad mean length: 154.88
+	Sequences filtered by specified parameters:
+	min_len: 387
+	max_len: 1
+CCS.BC1010--bc1101.fas:
+Input and filter stats:
+	Input sequences: 597
+	Input bases: 173,708
+	Input mean length: 290.97
+	Good sequences: 167 (27.97%)
+	Good bases: 123,444
+	Good mean length: 739.19
+	Bad sequences: 430 (72.03%)
+	Bad bases: 50,264
+	Bad mean length: 116.89
+	Sequences filtered by specified parameters:
+	min_len: 429
+	max_len: 1
+CCS.BC1010--bc1102.fas:
+Input and filter stats:
+	Input sequences: 467
+	Input bases: 87,537
+	Input mean length: 187.45
+	Good sequences: 25 (5.35%)
+	Good bases: 18,405
+	Good mean length: 736.20
+	Bad sequences: 442 (94.65%)
+	Bad bases: 69,132
+	Bad mean length: 156.41
+	Sequences filtered by specified parameters:
+	min_len: 438
+	max_len: 4
+CCS.BC1010--bc1103.fas:
+Input and filter stats:
+	Input sequences: 2,769
+	Input bases: 740,710
+	Input mean length: 267.50
+	Good sequences: 396 (14.30%)
+	Good bases: 294,046
+	Good mean length: 742.54
+	Bad sequences: 2,373 (85.70%)
+	Bad bases: 446,664
+	Bad mean length: 188.23
+	Sequences filtered by specified parameters:
+	min_len: 2369
+	max_len: 4
+CCS.BC1010--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,951
+	Input bases: 1,163,727
+	Input mean length: 596.48
+	Good sequences: 1,406 (72.07%)
+	Good bases: 1,044,853
+	Good mean length: 743.14
+	Bad sequences: 545 (27.93%)
+	Bad bases: 118,874
+	Bad mean length: 218.12
+	Sequences filtered by specified parameters:
+	min_len: 537
+	max_len: 8
+CCS.BC1010--bc1105.fas:
+Input and filter stats:
+	Input sequences: 380
+	Input bases: 41,382
+	Input mean length: 108.90
+	Good sequences: 6 (1.58%)
+	Good bases: 4,455
+	Good mean length: 742.50
+	Bad sequences: 374 (98.42%)
+	Bad bases: 36,927
+	Bad mean length: 98.74
+	Sequences filtered by specified parameters:
+	min_len: 373
+	max_len: 1
+CCS.BC1010--bc1106.fas:
+Input and filter stats:
+	Input sequences: 420
+	Input bases: 53,188
+	Input mean length: 126.64
+	Good sequences: 5 (1.19%)
+	Good bases: 3,703
+	Good mean length: 740.60
+	Bad sequences: 415 (98.81%)
+	Bad bases: 49,485
+	Bad mean length: 119.24
+	Sequences filtered by specified parameters:
+	min_len: 414
+	max_len: 1
+CCS.BC1010--bc1107.fas:
+Input and filter stats:
+	Input sequences: 424
+	Input bases: 56,132
+	Input mean length: 132.39
+	Good sequences: 3 (0.71%)
+	Good bases: 2,235
+	Good mean length: 745.00
+	Bad sequences: 421 (99.29%)
+	Bad bases: 53,897
+	Bad mean length: 128.02
+	Sequences filtered by specified parameters:
+	min_len: 420
+	max_len: 1
+CCS.BC1011--bc1100.fas:
+Input and filter stats:
+	Input sequences: 1,346
+	Input bases: 431,596
+	Input mean length: 320.65
+	Good sequences: 322 (23.92%)
+	Good bases: 239,000
+	Good mean length: 742.24
+	Bad sequences: 1,024 (76.08%)
+	Bad bases: 192,596
+	Bad mean length: 188.08
+	Sequences filtered by specified parameters:
+	min_len: 1022
+	max_len: 2
+CCS.BC1011--bc1101.fas:
+Input and filter stats:
+	Input sequences: 991
+	Input bases: 227,099
+	Input mean length: 229.16
+	Good sequences: 101 (10.19%)
+	Good bases: 73,684
+	Good mean length: 729.54
+	Bad sequences: 890 (89.81%)
+	Bad bases: 153,415
+	Bad mean length: 172.38
+	Sequences filtered by specified parameters:
+	min_len: 889
+	max_len: 1
+CCS.BC1011--bc1102.fas:
+Input and filter stats:
+	Input sequences: 1,123
+	Input bases: 203,183
+	Input mean length: 180.93
+	Good sequences: 22 (1.96%)
+	Good bases: 15,826
+	Good mean length: 719.36
+	Bad sequences: 1,101 (98.04%)
+	Bad bases: 187,357
+	Bad mean length: 170.17
+	Sequences filtered by specified parameters:
+	min_len: 1099
+	max_len: 2
+CCS.BC1011--bc1103.fas:
+Input and filter stats:
+	Input sequences: 5,543
+	Input bases: 1,291,301
+	Input mean length: 232.96
+	Good sequences: 381 (6.87%)
+	Good bases: 282,482
+	Good mean length: 741.42
+	Bad sequences: 5,162 (93.13%)
+	Bad bases: 1,008,819
+	Bad mean length: 195.43
+	Sequences filtered by specified parameters:
+	min_len: 5157
+	max_len: 5
+CCS.BC1011--bc1104.fas:
+Input and filter stats:
+	Input sequences: 2,189
+	Input bases: 953,255
+	Input mean length: 435.48
+	Good sequences: 959 (43.81%)
+	Good bases: 712,648
+	Good mean length: 743.12
+	Bad sequences: 1,230 (56.19%)
+	Bad bases: 240,607
+	Bad mean length: 195.62
+	Sequences filtered by specified parameters:
+	min_len: 1217
+	max_len: 13
+CCS.BC1011--bc1105.fas:
+Input and filter stats:
+	Input sequences: 1,254
+	Input bases: 364,892
+	Input mean length: 290.98
+	Good sequences: 302 (24.08%)
+	Good bases: 224,173
+	Good mean length: 742.29
+	Bad sequences: 952 (75.92%)
+	Bad bases: 140,719
+	Bad mean length: 147.81
+	Sequences filtered by specified parameters:
+	min_len: 950
+	max_len: 2
+CCS.BC1011--bc1106.fas:
+Input and filter stats:
+	Input sequences: 1,629
+	Input bases: 234,796
+	Input mean length: 144.14
+	Good sequences: 10 (0.61%)
+	Good bases: 7,392
+	Good mean length: 739.20
+	Bad sequences: 1,619 (99.39%)
+	Bad bases: 227,404
+	Bad mean length: 140.46
+	Sequences filtered by specified parameters:
+	min_len: 1616
+	max_len: 3
+CCS.BC1011--bc1107.fas:
+Input and filter stats:
+	Input sequences: 1,415
+	Input bases: 325,640
+	Input mean length: 230.13
+	Good sequences: 153 (10.81%)
+	Good bases: 113,656
+	Good mean length: 742.85
+	Bad sequences: 1,262 (89.19%)
+	Bad bases: 211,984
+	Bad mean length: 167.97
+	Sequences filtered by specified parameters:
+	min_len: 1259
+	max_len: 3
+CCS.BC1012--bc1100.fas:
+Input and filter stats:
+	Input sequences: 2,455
+	Input bases: 917,153
+	Input mean length: 373.59
+	Good sequences: 725 (29.53%)
+	Good bases: 538,654
+	Good mean length: 742.97
+	Bad sequences: 1,730 (70.47%)
+	Bad bases: 378,499
+	Bad mean length: 218.79
+	Sequences filtered by specified parameters:
+	min_len: 1720
+	max_len: 10
+CCS.BC1012--bc1101.fas:
+Input and filter stats:
+	Input sequences: 1,033
+	Input bases: 462,247
+	Input mean length: 447.48
+	Good sequences: 501 (48.50%)
+	Good bases: 371,148
+	Good mean length: 740.81
+	Bad sequences: 532 (51.50%)
+	Bad bases: 91,099
+	Bad mean length: 171.24
+	Sequences filtered by specified parameters:
+	min_len: 527
+	max_len: 5
+CCS.BC1012--bc1102.fas:
+Input and filter stats:
+	Input sequences: 778
+	Input bases: 124,276
+	Input mean length: 159.74
+	Good sequences: 12 (1.54%)
+	Good bases: 8,815
+	Good mean length: 734.58
+	Bad sequences: 766 (98.46%)
+	Bad bases: 115,461
+	Bad mean length: 150.73
+	Sequences filtered by specified parameters:
+	min_len: 764
+	max_len: 2
+CCS.BC1012--bc1103.fas:
+Input and filter stats:
+	Input sequences: 1,463
+	Input bases: 640,392
+	Input mean length: 437.73
+	Good sequences: 730 (49.90%)
+	Good bases: 542,565
+	Good mean length: 743.24
+	Bad sequences: 733 (50.10%)
+	Bad bases: 97,827
+	Bad mean length: 133.46
+	Sequences filtered by specified parameters:
+	min_len: 729
+	max_len: 4
+CCS.BC1012--bc1104.fas:
+Input and filter stats:
+	Input sequences: 1,622
+	Input bases: 994,951
+	Input mean length: 613.41
+	Good sequences: 1,251 (77.13%)
+	Good bases: 929,808
+	Good mean length: 743.25
+	Bad sequences: 371 (22.87%)
+	Bad bases: 65,143
+	Bad mean length: 175.59
+	Sequences filtered by specified parameters:
+	min_len: 359
+	max_len: 12
+CCS.BC1012--bc1105.fas:
+Input and filter stats:
+	Input sequences: 1,864
+	Input bases: 274,380
+	Input mean length: 147.20
+	Good sequences: 6 (0.32%)
+	Good bases: 4,431
+	Good mean length: 738.50
+	Bad sequences: 1,858 (99.68%)
+	Bad bases: 269,949
+	Bad mean length: 145.29
+	Sequences filtered by specified parameters:
+	min_len: 1853
+	max_len: 5
+CCS.BC1012--bc1106.fas:
+Input and filter stats:
+	Input sequences: 1,444
+	Input bases: 641,441
+	Input mean length: 444.21
+	Good sequences: 743 (51.45%)
+	Good bases: 552,107
+	Good mean length: 743.08
+	Bad sequences: 701 (48.55%)
+	Bad bases: 89,334
+	Bad mean length: 127.44
+	Sequences filtered by specified parameters:
+	min_len: 697
+	max_len: 4

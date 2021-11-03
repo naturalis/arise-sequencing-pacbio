@@ -11,7 +11,7 @@ it contained some [additional material](https://docs.google.com/spreadsheets/d/1
 |fungi|92|ITS|71|-|-|-|-|
 
 ## split datasets
-extract_and_split.sh
+[extract_and_split.sh](https://github.com/naturalis/arise-sequencing-pacbio/blob/main/scripts/extract_and_split.sh)
 
 ## convert bam to fastq
 bam2fastq.sh\

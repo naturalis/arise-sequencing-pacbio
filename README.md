@@ -14,7 +14,7 @@ it contained some [additional material](https://docs.google.com/spreadsheets/d/1
 [extract_and_split.sh](https://github.com/naturalis/arise-sequencing-pacbio/blob/main/scripts/extract_and_split.sh)
 
 ## convert bam to fastq
-bam2fastq.sh\
+[bam2fastq.sh](https://github.com/naturalis/arise-sequencing-pacbio/blob/main/scripts/bam2fq.sh)\
 Quality scores seem to be corrupted(?) when converting bam to fastq using samtools. Possibly related to [this post](http://seqanswers.com/forums/showthread.php?t=77954). This issue might be solved by using [bam2fastx](https://github.com/PacificBiosciences/bam2fastx). For now, quality scores were left out of consideration, by converting the fastq files to fasta\
 fq2fa.sh
 

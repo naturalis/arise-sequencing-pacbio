@@ -20,4 +20,4 @@ Quality scores seem to be corrupted(?) when converting bam to fastq using samtoo
 
 ## filter fastq by length (and quality)
 For simplicity the consensus sequences are now created in Galaxy using DADA2 or Vsearch clustering algortihms (included in the "make otu table" tool). Because of this it makes sense to import the fastq files in Galaxy and do the filtering there as well.
-Filtering by length in [some cases]() causes a significant reduction in the number of useable reads.
+Filtering by length in [some cases](https://github.com/naturalis/arise-sequencing-pacbio/blob/main/logs/sequence_trimmer_log.txt) causes a significant reduction in the number of useable reads.

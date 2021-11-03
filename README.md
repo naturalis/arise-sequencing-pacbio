@@ -21,3 +21,13 @@ Quality scores seem to be corrupted(?) when converting bam to fastq using samtoo
 ## filter fastq by length (and quality)
 For simplicity the consensus sequences are now created in Galaxy using DADA2 or Vsearch clustering algortihms (included in the "make otu table" tool). Because of this it makes sense to import the fastq files in Galaxy and do the filtering there as well.
 Filtering by length in [some cases](https://github.com/naturalis/arise-sequencing-pacbio/blob/main/logs/sequence_trimmer_log.txt) causes a significant reduction in the number of useable reads.
+
+## create consensus
+Consensus sequences could be obtained from a traditional alignment method (clustal, mafft, etc.) or by using the just mentioned clustering methods.
+
+## Create a Blastdb from the insect.fas reference file
+Blast the consensus sequences (put all in a single fasta file) against the ref db.
+
+## Remarks
+Just as with the ONT data there seems to have been a mix-up of barcodes.\
+Identifications (ie. specimen names) in the insect reference file (insect.fas) have been confirmed with a Blast search against the GenBank COI dataset in Galaxy.

@@ -30,4 +30,4 @@ Blast the consensus sequences (put all in a single fasta file) against the ref d
 
 ## remarks
 Just as with the ONT data there seems to have been a mix-up of barcodes.\
-Identifications (ie. specimen names) in the insect reference file (insect.fas) have been confirmed with a Blast search against the GenBank COI dataset in Galaxy.
+Identifications (ie. specimen names) in the insect reference file (insect.fas) have been confirmed with a Blast search against the GenBank COI dataset in Galaxy (ie. the mix-up seems to have occured somewhere in the workflow of the wetlab).

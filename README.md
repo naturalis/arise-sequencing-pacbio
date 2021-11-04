@@ -3,6 +3,7 @@
 This repository documents initial attempts to consensus call PacBio pilot data.
 The data was similar to the [ONT dataset](https://github.com/naturalis/arise-sequencing-nanopore) though
 it contained some [additional material](https://docs.google.com/spreadsheets/d/11SVnGIaafMN7ybHoDktcJpbnDKnrdblw/edit#gid=776824571) (in total 95 insect specimens, 95 fungi samples and 92 marine specimens). Sequencing was outsourced to [LGTC](https://www.lumc.nl/org/lgtc/) (Leiden Genome Technology Center). Sequences were received in (unindexed?) bam format, demultiplexed on forward and reverse barcode combinations. The data consisted of single reads (ie. no paired-end data).\
+\
 *Because the insect dataset had the highest number of passed reads, no fragment length variation issues and a proper reference dataset, the workflow will initially be tested with this dataset.*
 
 |Dataset|Specimens|Marker|Passed|na|na|na|na|

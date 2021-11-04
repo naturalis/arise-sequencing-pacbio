@@ -22,7 +22,7 @@ Quality scores seem to be corrupted(?) when converting bam to fastq using samtoo
 Sequences were filtered by length in Galaxy (ie. Prinseq) under the assumption that one of the clustering algorithms (DADA2, Vsearch) could be used for the creating consensus sequences. Trail and error showed that the variation within the sequences (ie. the number of obtained OTUs) was six fold (or more depending on noise and abundance parameters) higher than the number of specimens. So clustering as a method for consensus doesn't seem to be an option. For some of the input files filtering by length caused a severe reduction in the number of useable reads ([sequence trimmer log](https://github.com/naturalis/arise-sequencing-pacbio/blob/main/logs/sequence_trimmer_log.txt)).
 
 ## alignment and consensus
-Mafft was used to create an alignment for each filtered fasta file. These alignments were also saved as fasta and, of each, a consensus sequence was created with [consensus.pl](https://github.com/josephhughes/Sequence-manipulation).
+[Mafft.sh](https://github.com/naturalis/arise-sequencing-pacbio/blob/main/scripts/mafft.sh) was used to create an alignment for each filtered fasta file. These alignments were also saved as fasta and, of each, a consensus sequence was created with [consensus.pl](https://github.com/josephhughes/Sequence-manipulation).
 
 
 ## create a Blastdb from the insect.fas reference file
